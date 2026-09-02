@@ -1,0 +1,76 @@
+# === СИСТЕМНЫЕ ПРОЦЕССЫ (не трогаем никогда) ===
+System
+Registry
+Memory Compression
+smss.exe
+csrss.exe
+wininit.exe
+winlogon.exe
+services.exe
+lsass.exe
+svchost.exe
+explorer.exe
+spoolsv.exe
+dwm.exe
+fontdrvhost.exe
+ctfmon.exe
+taskhostw.exe
+RuntimeBroker.exe
+ShellExperienceHost.exe
+SearchApp.exe
+StartMenuExperienceHost.exe
+
+# === ОСНОВНЫЕ ДРАЙВЕРЫ / КАМЕРА ===
+DroidCam.exe
+DroidCamApp.exe
+DroidCamClient.exe
+droidcam_service.exe
+
+# === СЕТЕВЫЕ ИНТЕРФЕЙСЫ / АНТИВИРУС / СЛУЖБЫ ===
+SecurityHealthService.exe
+SecurityHealthSystray.exe
+MsMpEng.exe
+nvcontainer.exe
+nvidia-container.exe
+audiodg.exe
+sihost.exe
+winlogon.exe
+conhost.exe
+
+# === ПОЛЬЗОВАТЕЛЬСКИЕ ПРИЛОЖЕНИЯ (ОСТАВИТЬ В РАБОТЕ) ===
+# Яндекс.Браузер
+browser.exe
+yandex.exe
+YandexBrowser.exe
+
+# OBS Studio
+obs64.exe
+obs32.exe
+
+# Discord
+
+
+# Steam
+steam.exe
+steamservice.exe
+steamwebhelper.exe
+
+# Яндекс Музыка
+YandexMusic.exe
+Yandex Музыка.exe
+Yandex.Music.exe
+music.yandex.exe
+Яндекс Музыка.exe
+
+# Visual Studio Code (если используешь IDE)
+Code.exe
+
+# Telegram Desktop (на случай если он запущен)
+Telegram.exe
+telegram.exe
+
+# === ДРУГОЕ (можно добавить по желанию) ===
+# chrome.exe
+# firefox.exe
+# vivaldi.exe
+# msedge.exe
